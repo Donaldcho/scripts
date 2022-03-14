@@ -13,7 +13,7 @@ sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noa
 
 ###install ansible with YUM
 
-yum install ansible
+sudo yum install ansible
 
 ### ansible version
 
